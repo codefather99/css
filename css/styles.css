@@ -1,0 +1,162 @@
+body {
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 4.375rem;
+  margin-0: 0;
+  font-family: 'Rock 3D', cursive;
+  margin-bottom: 0;
+  color: #E45826;
+}
+
+p {
+  font-family: 'Merriweather', cursive;
+  font-weight: bold;
+
+}
+
+.pp {
+  font-family: 'Merriweather', cursive;
+  font-size: 2.5rem;
+  color: #E45826;
+  font-weight: lighter;
+}
+
+h2 {
+  color: #E45826;
+}
+
+h3 {
+  color: #E45826;
+  font-family: 'Merriweather', cursive;
+  font-weight: bolder;
+}
+
+.henry {
+  border-radius: 100px;
+}
+
+.video {
+  border-radius: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.digital {
+  border-radius: 100px;
+  width: 25%;
+  float: right;
+  margin-right: 100px;
+}
+
+.git {
+  width: 50px;
+  border-radius: 30px;
+  margin: 5px auto 50px;
+}
+
+.upper-container {
+  background-color: #1DB9C3;
+  padding-top: 150px;
+  position: relative;
+  height: 635px;
+  margin-bottom: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 50px;
+  text-align: left;
+}
+
+.skills {
+  padding-bottom: 10px;
+}
+
+hr {
+  border-width: 5px;
+  border-radius: 0px;
+  border-style: dotted none none none;
+  height: 0;
+  width: 5%;
+  color: grey;
+  margin: 100px auto;
+  opacity: 30%;
+}
+
+.middle-container {
+  padding: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  line-height: 2;
+  height: 50px;
+  font-family: 'montserrat', cursive;
+  font-size: 1rem;
+  color: #E45826;
+  padding: 50px 0 60px;
+}
+
+.btn {
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: #11999E;
+  color: #EAF6F6;
+  padding: 2px 6px 2px 6px;
+  border-top: 2px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  font-family: sans-serif;
+}
+
+.btn:hover {
+  box-shadow: 0 5px 6px 0 grey;
+  opacity: 0.6;
+}
+
+.btn:active {
+  transform: translateY(10px);
+  box-shadow: 0 5px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: auto;
+  left: 400px;
+}
+
+.btn {
+  button;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+
+.footer-link {
+  color: #11999e;
+  margin: auto 20px 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.tm {
+  color: #EAf6f6;
+  font-family: 'montserrat', cursive;
+  font-size: 10px;
+  margin-top: 30px;
+}
